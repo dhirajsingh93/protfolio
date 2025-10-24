@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* 
+img,
+video {
+  max-width: 40px;
+  height: auto;
+} */
+
+
+.services-icon {
+  width: 60px;
+  height: auto;
+  margin-top: 10px;
+}
